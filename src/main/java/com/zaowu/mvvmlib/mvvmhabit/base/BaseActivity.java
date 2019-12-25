@@ -23,6 +23,7 @@ import java.util.Map;
 
 
 
+
 /**
  * Created by goldze on 2017/6/15.
  * 一个拥有DataBinding框架的基Activity
